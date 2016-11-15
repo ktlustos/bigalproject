@@ -14,28 +14,29 @@ body {
     background-position: center;
     background-size: contain;
     float: left;
-    margin-left: 20px; }
+    margin-left: 50px; }
   #navBar ul {
     width: 60%;
-    background-color: #ccc;
+    background-color: #fff;
     height: 100%;
     margin: 0 auto 0 auto;
     padding: 0;
-    text-align: center;
-    padding-right: 100px; }
+    text-align: center; }
   #navBar li {
     display: inline-block;
     height: 100%;
-    min-width: 100px;
+    min-width: 120px;
     line-height: 62.5px;
-    background-color: #888; }
+    background-color: #fff;
+    margin-right: 10px; }
   #navBar #contact {
     height: 30px;
     width: 100px;
+    color: #F91D2F;
     background-color: #fff;
     float: right;
     text-align: center;
     line-height: 30px;
-    border: 3px solid #F91D2F;
+    border: 1px solid #F91D2F;
     border-radius: 30px;
     margin: 15.5px 36px 0 0; }
