@@ -1,0 +1,5 @@
+@mixin navbar($navbarheight) {
+  height: $navbarheight;
+  width: 100%;
+  background-color: #fff;
+}
